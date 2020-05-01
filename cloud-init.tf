@@ -6,7 +6,7 @@ data "template_file" "init" {
   }
 }
 
-# Create a web server
+# Create a web server sample test
 resource "aws_instance" "web" {
   # ...
 
