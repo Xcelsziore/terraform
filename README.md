@@ -1,2 +1,2 @@
-# terraform
-Sample terraform Repository
+# Terraform
+Sample Terraform Repository
