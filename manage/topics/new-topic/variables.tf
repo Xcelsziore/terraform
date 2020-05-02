@@ -1,4 +1,4 @@
-#adding new varibles.tf file to store changes about dns_domain
+#adding new varibles.tf file
 variable "dnsimple_domain" {
-  description = "The domain we are creating a record for."
+  description = "Stores the domain we are creating a record for."
 }
